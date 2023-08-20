@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family:'Courier New', Courier, monospace;
+}
+.gandhi {
+    background-image:url(./img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+h1 {
+    font-size: 2rem;
+    justify-content: right;
+    align-items: center;
+    text-align: right ;
+    padding-left: 54%;
+    padding-right: 3rem;
+    padding-top: 16rem;
+    color: rgb(23, 20, 20);
+}
+h2 {
+    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 54%;
+    padding-top: 1rem;
+    padding-right: 3rem;
+
+}
+
+.about .tribute {
+    background-image: url(./flag.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 4rem;
+
+}
+.tribute h2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 2.5rem;
+    padding-left: 0; 
+
+}
+.tribute span {
+    color: rgb(228, 153, 13);
+}
+.tribute h2 span1 {
+    color: orange ;
+}
+.tribute h2 span2 {
+    color: white;
+}
+.tribute h2 span3 {
+    color: rgb(20, 193, 20);
+}
+.tribute p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tribute p1{
+    color: rgb(0, 0, 0);
+    padding:3rem;
+    padding-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.tribute p2 {
+    color: rgb(0, 0, 0);
+    padding:3rem;
+    padding-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.tribute p3 {
+    color: rgb(0, 0, 0);
+    padding:3rem;
+    padding-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.tribute p4 {
+    color: rgb(0, 0, 0);
+    padding:3rem;
+    padding-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.tribute p5 {
+    color: rgb(0, 0, 0);
+    padding:3rem;
+    padding-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.tribute h3 {
+    padding-top: 3.5rem;
+    font-size: 2rem;
+}
+.tribute img {
+    display: flex;
+    padding-right: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    float: left;
+}
+table {
+    border: 2px solid black;
+    padding: 15px;
+    margin-left: 25%;
+    background-color: aliceblue;
+    color: black;
+}
+table a {
+    text-decoration: none;
+}
+.name {
+    padding-left: 2rem;
+}
+.list{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+footer {
+    color: white;
+    background-color: rgb(31, 29, 29);
+    padding-bottom: 2rem;
+}
+footer h2{
+    padding: 2rem;
+    text-align: left;
+}
+footer a {
+    display: block;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    justify-content: space-between;
+    text-decoration: none;
+    color: gray
+}
+footer p {
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
